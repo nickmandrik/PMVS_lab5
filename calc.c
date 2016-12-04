@@ -13,7 +13,7 @@ MODULE_AUTHOR("Nick Mandrik");
 MODULE_VERSION("1");
 
 #define PROC_FIRST "first"
-#define PROC_SECOND "second"       
+#define PROC_SECOND "second"        
 #define PROC_OPERAND "operand"
 #define DEV_RESULT "result"
 
