@@ -10,8 +10,8 @@ function test {
 	else 
 		echo "NOT CORRECT"
 	fi
-}
-
+}  
+  
 test 5 + 13 18
 test 13 + 2 15
 test -4 + 10 6
